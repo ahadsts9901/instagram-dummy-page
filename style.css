@@ -1,0 +1,17 @@
+*{
+    font-family: Calibri;
+}
+
+.iconborder{
+    border: 2px solid black;
+}
+
+.black{
+    color: black;
+}
+
+.search{
+    height: 30px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
