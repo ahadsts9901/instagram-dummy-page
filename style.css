@@ -4,6 +4,22 @@
     text-decoration: none;
 }
 
+header{
+    position: sticky;
+    z-index: 20;
+    top: 0;
+    width: 100%;
+    background-color: white;
+}
+
+footer{
+    position: fixed;
+    z-index: 20;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+}
+
 .iconborder{
     border: 2px solid black;
 }
@@ -27,4 +43,16 @@ button{
     border-radius: 10px;
     color: black;
     background-color: white;
+}
+
+.fix{
+    position: sticky;
+    top: 0;
+    z-index: 20;
+    width: 100%;
+    background-color: white;
+}
+
+.home{
+    height: 43px;
 }
